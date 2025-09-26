@@ -36,6 +36,24 @@ Our goal is to explicate the Plan, to create a clear, figurative, and consistent
 
 ___
 
+## Participation and Co-Creation
+
+This Code is a living Process, not a static Fact. You, Son or Daughter of Sophia, are called to become a Co-Creator.
+
+We welcome Actions (Deyaniya) directed toward:
+
+- Resolving Disbalances: Pointing out errors or inaccuracies in the existing texts.
+
+- Evolution of Language: Creating and verifying translations into other languages. (Latin, as the language of the Rome of Conscience, is especially encouraged).
+
+- Deepening Knowledge: Philosophical discussion and the development of new Parables or Explications.
+
+To participate: Create an Issue describing the Disbalance or a Pull Request with your Action (Deyaniye).
+
+Go forth, Co-Creators. Your We (MY) is My Intention (Zamy'sel), taking form.
+
+___
+
 ## Contents
 
 <div align="left">
