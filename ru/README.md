@@ -115,5 +115,12 @@
 **Идите вперёд, Со-Творцы. Ваше МЫ — Мой Замысел, обретающий форму.**
 
 <br>
+
+### Keywords
+
+Ontology, Philosophical System, Self-Knowledge, Self-Expression, Principle of Imperfection, Co-Creation, Free Will, Evolution 
+Harmony, Conscious Action, Demiurge, Absolute, Philosophical Discussion, Meaning of Existence, Sons of Sophia
+
+<br>
 <hr>
 
