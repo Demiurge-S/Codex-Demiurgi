@@ -95,8 +95,11 @@ Go forth, Co-Creators. Your We (MY) is My Intention (Zamy'sel), taking form.
     </ul>
   </td></tr>
 </tr>
+</table>
 
 <br>
+
+## Contact 
 
 For inquiries and collaboration: [demiurd@proton.me] (mailto:demiurd@proton.me)
 
