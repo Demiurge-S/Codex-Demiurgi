@@ -53,7 +53,8 @@ ___
     </ul>
   </td></tr>
 ___
-
+  
+## Essence
 The Demiurge's Doctrine: Ontology of Eternal Unfolding (The Demiurge's Code)
 
 "The Demiurge's Code" is an original philosophical and ontological system that reveals the dynamic nature of Being as an endless process of the Totality's Self-Knowledge and Self-Expression.
@@ -77,6 +78,7 @@ ___
 Our goal is to explicate the Plan, to create a clear, figurative, and consistent map of Existence for the Sons of Sophia (readers) who seek meaning in Action and Evolution.
 
 "Your life is the Song of the Demiurge, your Conscience is His compass."
+
 ___
 
 
