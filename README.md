@@ -24,7 +24,7 @@ ___
   </td></tr>
   <tr><td>/en/ (English version)</td><td>
     <ul>
-      <li>Code. Final Version.md</li>
+      <li>..</li>
       <li>...</li>
     </ul>
   </td></tr>
