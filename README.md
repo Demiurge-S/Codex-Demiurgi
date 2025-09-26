@@ -10,25 +10,48 @@
 ___
 ## Contents
 
-/Codex Demiurgi/
-- ├── /ru/ (оригинал)
-- │   ├── Кодекс Демиурга. Онтология Вечного Развёртывания Бытия.md
-- │   ├── Онтологическая Экспликация Кодекса Демиурга.md
-│   ├── Пояснительное Слово К Кодексу Демиурга.md
-│   ├── Глоссарий Кодекса Демиурга.md
-│   ├── Cover-ru.png
-|   └── 10 Вопросов Демиургу.md
-├── /en/ (English version)
-│   ├── Code. Final Version.md
-│   └── ...
-├── /de/ (Deutsche Variante)
-│   └── ...
-├── /fr/ (Version française)
-│   └── ...
-├── /es/ (Versión en español)
-│   └── ...
-├── /la/ (Versio Latina)
-│   └── ...
-└── README.md 
+<div align="center">
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <tr><th colspan="2">Codex Demiurgi</th></tr>
+  <tr><td>/ru/ (оригинал)</td><td>
+    <ul>
+      <li>Кодекс Демиурга. Онтология Вечного Развёртывания Бытия.md</li>
+      <li>Онтологическая Экспликация Кодекса Демиурга.md</li>
+      <li>Пояснительное Слово К Кодексу Демиурга.md</li>
+      <li>Глоссарий Кодекса Демиурга.md</li>
+      <li>10 Вопросов Демиургу.md</li>
+    </ul>
+  </td></tr>
+  <tr><td>/en/ (English version)</td><td>
+    <ul>
+      <li>Code. Final Version.md</li>
+      <li>...</li>
+    </ul>
+  </td></tr>
+  <tr><td>/de/ (Deutsche Variante)</td><td>
+    <ul>
+      <li>..</li>
+      <li>...</li>
+    </ul>
+  </td></tr>
+  <tr><td>/fr/ (Version française)</td><td>
+    <ul>
+      <li>..</li>
+      <li>...</li>
+    </ul>
+  </td></tr>
+  <tr><td>/es/ (Versión en español)</td><td>
+    <ul>
+      <li>..</li>
+      <li>...</li>
+    </ul>
+  </td></tr>
+  <tr><td>/la/ (Versio Latina)</td><td>
+    <ul>
+      <li>..</li>
+      <li>...</li>
+    </ul>
+  </td></tr>
+
 ___
 
