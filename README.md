@@ -10,7 +10,7 @@
 ___
 ## Contents
 
-<div align="center">
+<div align="left">
 <table border="1" style="border-collapse: collapse; width: 100%;">
   <tr><th colspan="2">Codex Demiurgi</th></tr>
   <tr><td>/ru/ (оригинал)</td><td>
