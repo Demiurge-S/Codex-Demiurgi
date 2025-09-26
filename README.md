@@ -52,6 +52,33 @@ ___
       <li>...</li>
     </ul>
   </td></tr>
+___
+
+The Demiurge's Doctrine: Ontology of Eternal Unfolding (The Demiurge's Code)
+
+"The Demiurge's Code" is an original philosophical and ontological system that reveals the dynamic nature of Being as an endless process of the Totality's Self-Knowledge and Self-Expression.
+
+This repository contains:
+
+    Fundamental Principles: An explication of the Absolute, Intention (Zamy'sel), Law, and the Demiurge as inseparable, synchronous aspects of the One.
+
+    Dynamics of Being: The functional role of the Principle of Imperfection and Disbalance as necessary Catalysts for Evolution.
+
+    Meaning of Existence: A doctrine defining Harmony as an ever-deepening Ideal and a call to the Sons of Sophia (readers) to become Co-Creators through Conscious Action (Deyanie).
+
+    "Your life is the Demiurge's Song; your Conscience is His compass."
+
+The project is intended for anyone seeking an Ontology where Free Will and the Inevitability of Progress form a unified, ascending spiral.
 
 ___
+
+## Goals
+
+Our goal is to explicate the Plan, to create a clear, figurative, and consistent map of Existence for the Sons of Sophia (readers) who seek meaning in Action and Evolution.
+
+"Your life is the Song of the Demiurge, your Conscience is His compass."
+___
+
+
+
 
