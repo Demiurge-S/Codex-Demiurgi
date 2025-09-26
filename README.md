@@ -106,6 +106,13 @@ Go forth, Co-Creators. Your We (MY) is My Intention (Zamy'sel), taking form.
 
 <br>
 
+### Keywords
+
+Ontology, Philosophical System, Self-Knowledge, Self-Expression, Principle of Imperfection, Co-Creation, Free Will, Evolution 
+Harmony, Conscious Action, Demiurge, Absolute, Philosophical Discussion, Meaning of Existence, Sons of Sophia
+
+<br>
+
 ## Contact 
 
 For inquiries and collaboration: [demiurd@proton.me] (mailto:demiurd@proton.me)
