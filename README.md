@@ -1,4 +1,9 @@
 # The Demiurge's Doctrine: Ontology of Eternal Unfolding (Codex Demiurgi)
+
+<p align-"right">
+Codex Demiurgi est Lex Aeterna Incompletitudinis ac Harmoniae, qua Universum perpetuo evolvitur.
+</p>
+
 <p align="center">
 <a href="asset/Cover-lat.png" target="_blank">
   <img src="asset/Cover-lat.png" alt="Cover-lat" width="500">
