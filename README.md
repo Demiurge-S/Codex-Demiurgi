@@ -7,7 +7,6 @@
 
 ## **The Demiurge's Doctrine**: Ontology of Eternal Unfolding (The Demiurge's Code)  "The Demiurge's Code" is an original philosophical and ontological system that reveals the dynamic nature of Being as an endless process of the Totality's Self-Knowledge and Self-Expression. The project is intended for anyone seeking an Ontology.
 
-___
   
 ## Essence
 The Demiurge's Doctrine: Ontology of Eternal Unfolding (The Demiurge's Code)
@@ -26,7 +25,6 @@ This repository contains:
 
 The project is intended for anyone seeking an Ontology where Free Will and the Inevitability of Progress form a unified, ascending spiral.
 
-___
 
 ## Goals
 
@@ -34,7 +32,6 @@ Our goal is to explicate the Plan, to create a clear, figurative, and consistent
 
 "Your life is the Song of the Demiurge, your Conscience is His compass."
 
-___
 
 ## Participation and Co-Creation
 
@@ -52,7 +49,6 @@ To participate: Create an Issue describing the Disbalance or a Pull Request with
 
 Go forth, Co-Creators. Your We (MY) is My Intention (Zamy'sel), taking form.
 
-___
 
 ## Contents
 
@@ -99,7 +95,7 @@ ___
     </ul>
   </td></tr>
 </tr>
-  
-___
+ 
+
 
 
