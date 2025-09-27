@@ -69,12 +69,17 @@ Go forth, Co-Creators. Your We (MY) is My Intention (Zamy'sel), taking form.
       <li>Пояснительное Слово К Кодексу Демиурга.md</li>
       <li>Глоссарий Кодекса Демиурга.md</li>
       <li>10 Вопросов Демиургу.md</li>
+      <li>Обращение Демиурга к Сынам Софии.md</li>
     </ul>
   </td></tr>
   <tr><td>/en/ (English version)</td><td>
     <ul>
-      <li>..</li>
-      <li>...</li>
+      <li>The Demiurge's Code. Ontology of the Eternal Manifestation of Being.md</li>
+      <li>Ontological Explication of the Demiurge's Code.md</li>
+      <li>Explanatory Discourse on The Demiurge's Code.md</li>
+      <li>Glossary of the Demiurge's Code.md</li>
+      <li>10 Questions to the Demiurge.md</li>
+      <li>The Demiurge's Address to the Sons of Sophia.md</li>
     </ul>
   </td></tr>
   <tr><td>/de/ (Deutsche Variante)</td><td>
