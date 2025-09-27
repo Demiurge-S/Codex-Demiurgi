@@ -102,8 +102,12 @@ Go forth, Co-Creators. Your We (MY) is My Intention (Zamy'sel), taking form.
   </td></tr>
   <tr><td>/la/ (Versio Latina)</td><td>
     <ul>
-      <li>..</li>
-      <li>...</li>
+      <li>Cōdex Dēmiurgī.md</li>
+      <li>Explīcātiō Ōntolōgica Cōdicis Dēmiurgī.md</li>
+      <li>Verbum Explānātīvum Ad "Cōdicem Dēmiurgī.md</li>
+      <li>Glossārium Cōdicis Dēmiurgī.md</li>
+      <li>Decem Quæstiōnēs Ad Dēmiurgum.md</li>
+      <li>Salūtō Vōs, Fīliī Sophiae.md</li>
     </ul>
   </td></tr>
 </tr>
